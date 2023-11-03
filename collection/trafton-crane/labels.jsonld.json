@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1207676",
+    "http://schema.org/name": "California--Davis"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1210722",
+    "http://schema.org/name": "California--Santa Cruz County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1214190",
+    "http://schema.org/name": "California--Yolo County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1622520",
+    "http://schema.org/name": "Trafton family"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/214560",
+    "http://schema.org/name": "Crane family"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/800949",
+    "http://schema.org/name": "Agricultural laborers"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/801355",
+    "http://schema.org/name": "Agriculture"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/829545",
+    "http://schema.org/name": "Bee culture"
+  }
+]

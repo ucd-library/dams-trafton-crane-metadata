@@ -1,0 +1,36 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/d592_49.tif"
+  },
+  "schema:description": "Two people in this group photo are wearing baseball uniforms of the Sharon (Madera County, Calif.) team.",
+  "schema:identifier": [
+    "AR-592, Box:1 Folder:49",
+    "ark:/87293/d3jw86s5m"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8b56p4p/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/"
+  },
+  "schema:material": "1 photographic print, black and white, 10 x 13 cm",
+  "schema:name": "Minne T. (Grandma), Aunt Ada Cameron",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 1880"
+}
