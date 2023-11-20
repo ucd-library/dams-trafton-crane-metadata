@@ -40,7 +40,7 @@
   "schema:description": "This collection of photographs documents the early California life of members of the Trafton and Crane families, who emigrated to California from Rhode Island in the early 1870s. The family settled in Davisville (later Davis); other Trafton relatives settled in the Watsonville area of Santa Cruz County.\n\n The collection finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8b56p4p/).",
   "schema:identifier": "D-592",
   "schema:image": {
-    "@id": "info.fedora/item/ark:/87293/d3ms3k62s/d592_33.tif"
+    "@id": "info:fedora/item/ark:/87293/d3ms3k62s/d592_33.tif"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8b56p4p/"
