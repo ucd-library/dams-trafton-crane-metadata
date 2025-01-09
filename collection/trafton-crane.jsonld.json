@@ -45,9 +45,6 @@
   "schema:image": {
     "@id": "info:fedora/item/ark:/87293/d3ms3k62s/d592_33.tif"
   },
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8b56p4p/"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
