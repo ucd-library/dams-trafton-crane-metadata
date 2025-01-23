@@ -23,9 +23,6 @@
     "AR-592, Box:1 Folder:54",
     "ark:/87293/d3x63b963"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8b56p4p/"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/"
   },

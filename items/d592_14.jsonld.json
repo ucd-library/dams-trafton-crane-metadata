@@ -22,9 +22,6 @@
     "ark:/87293/d3th8bs30",
     "AR-592, Box:1 Folder:14"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8b56p4p/"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/"
   },
