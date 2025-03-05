@@ -18,14 +18,11 @@
   "schema:associatedMedia": {
     "@id": "@base:/d592_13.tif"
   },
-  "schema:description": "\"Son of James G. Trafton, Providence, R.I. [Rhode Island].\"",
+  "schema:description": "Son of James G. Trafton, Providence, R.I. [Rhode Island].",
   "schema:identifier": [
     "ark:/87293/d3z892k74",
     "AR-592, Box:1 Folder:13"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8b56p4p/"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/"
   },

@@ -19,14 +19,11 @@
   "schema:associatedMedia": {
     "@id": "@base:/d592_44.tif"
   },
-  "schema:description": "\"Dashes are bees on the wing,\"",
+  "schema:description": "Dashes are bees on the wing,",
   "schema:identifier": [
     "AR-592, Box:1 Folder:44",
     "ark:/87293/d36m3381z"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8b56p4p/"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/"
   },

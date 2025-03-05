@@ -18,14 +18,11 @@
   "schema:associatedMedia": {
     "@id": "@base:/d592_7.tif"
   },
-  "schema:description": "\"Wife of Benjamin Trafton. Children George Russell Trafton, Sarah [Mewton?] Trafton, Benjamin Augustus Trafton, James Gardner Trafton, John Reed Trafton.\"",
+  "schema:description": "Wife of Benjamin Trafton. Children George Russell Trafton, Sarah [Mewton?] Trafton, Benjamin Augustus Trafton, James Gardner Trafton, John Reed Trafton.",
   "schema:identifier": [
     "AR-592, Box:1 Folder:7",
     "ark:/87293/d3qr4nw0k"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8b56p4p/"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/"
   },

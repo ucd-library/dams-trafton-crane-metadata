@@ -18,14 +18,11 @@
   "schema:associatedMedia": {
     "@id": "@base:/d592_10.tif"
   },
-  "schema:description": "\"Daughters Josie Trafton, Annie Trafton, Agnes Trafton, Emily Trafton.\"",
+  "schema:description": "Daughters Josie Trafton, Annie Trafton, Agnes Trafton, Emily Trafton.",
   "schema:identifier": [
     "AR-592, Box:1 Folder:10",
     "ark:/87293/d3bg2hf9h"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8b56p4p/"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/"
   },
